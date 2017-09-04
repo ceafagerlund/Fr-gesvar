@@ -1,0 +1,49 @@
+Här samlar du enklast svaren till alla frågor.
+
+
+**Fråga:** Vilken var lättast att använda? När kan du tänka dig att den ena eller den andra är bättre?
+
+Svar: Det var ingen större skillnad på dem, bortsett från att cat gick till dokumentets slut och less till dess början. Vilken som är bättre verkar bero på vilken del av dokumentet man vill åt.
+
+
+**Fråga:** Vem vann kodskrivartävlingen?
+
+Svar: Filen "index.js" innehöll fler kodrader än "queue.js".
+
+
+**Fråga:** Hur många java filer hittade du?
+
+Svar: 1707 filer.
+
+
+**Fråga:** Var ligger filen och vad heter den?
+
+Svar:
+
+Plats:
+./random/stuff/way/spring-batch/spring-batch-infrastructure/src/main/java/org/springframework/batch/item/List.java-
+Namn:
+public boolean isEmpty
+
+**Fråga:** Hur många unika matchningar finns det?
+
+Svar: 323
+
+
+**Fråga:** Hur många unika namn finns det?
+
+Svar: 150
+
+**Fråga:** vad är latin1/utf-8
+
+Svar: Två olika sätt att koda för olika skrivtecken och matematiska symboler.  Latin1 är mindre allmän än utf-8.
+
+
+**Fråga:** Hur kopierar och klistrar man i terminalen
+
+Svar: Kopiera: ctrl + shift + c. Klistra: ctrl + shift + v. 
+
+
+**Fråga:** vad är problemet med mellanslag i filnamn?
+
+Svar: Det verkar som att ett mellanslag kan leda till att programmet som ska köra filen behandlar mellanslaget som en "slutsignal" och inte genomför kommandot korrekt.
